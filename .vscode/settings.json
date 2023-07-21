@@ -1,0 +1,10 @@
+{
+  "liveServer.settings.root": "/",
+  "liveServer.settings.CustomBrowser": "firefox",
+  "liveServer.settings.https": {
+    "enable": true,
+    "cert": "/home/iquall/apps/pwa/localhost.pem",
+    "key": "/home/iquall/apps/pwa/localhost.key",
+    "passphrase": "bayo"
+  }
+}
